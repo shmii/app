@@ -1,0 +1,3 @@
+[submodule "roles/app_common"]
+	path = roles/app_common
+	url = git@github.com:shmii/app_common.git
